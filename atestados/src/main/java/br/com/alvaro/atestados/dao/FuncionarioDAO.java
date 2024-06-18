@@ -3,16 +3,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package br.com.alvaro.atestados.dao;
-package br.com.alvaro.atestados.entidades;
+
+import br.com.alvaro.atestados.entidades.Pessoa;
 
 /**
  *
  * @author Alvaro
  */
-public class Teste {
-    public static void main(String[] args) {
-        
-        
-        
-    }
+public class FuncionarioDAO extends Pessoa {
+
 }
