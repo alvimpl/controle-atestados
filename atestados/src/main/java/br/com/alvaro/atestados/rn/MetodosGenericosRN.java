@@ -4,11 +4,11 @@
  */
 package br.com.alvaro.atestados.rn;
 
-import br.com.alvaro.atestados.entidades.CamposObrigatoriosException;
+import br.com.alvaro.atestados.entidades.exception.CamposObrigatoriosException;
 
 /**
  *
- * @author Alvaro
+ * @author marlúcio  // INDENTAR
  */
 public interface MetodosGenericosRN {
 

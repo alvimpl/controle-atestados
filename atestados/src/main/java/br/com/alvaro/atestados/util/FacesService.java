@@ -8,7 +8,7 @@ import javax.faces.application.FacesMessage;
 import javax.faces.context.FacesContext;
 
 /**
- * @author MÁRCIA
+ * @author MÁRCIA  // INDENTAR
  */
  
 public interface FacesService {

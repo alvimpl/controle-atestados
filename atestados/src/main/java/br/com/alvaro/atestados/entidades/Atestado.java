@@ -10,9 +10,9 @@ import java.util.Date;
  * @author Alvaro
  */
 public class Atestado {
+    long id;
     Pessoa funcionario;
     Pessoa medicoAtestado;
-    int crmMedico;
     Cid cid;
     Base base;
     Date dataAtestado;

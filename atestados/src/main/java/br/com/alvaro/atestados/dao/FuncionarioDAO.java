@@ -12,4 +12,6 @@ import br.com.alvaro.atestados.entidades.Pessoa;
  */
 public class FuncionarioDAO extends Pessoa {
 
+
+    
 }

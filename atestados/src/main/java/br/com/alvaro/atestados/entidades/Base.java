@@ -9,6 +9,7 @@ package br.com.alvaro.atestados.entidades;
  * @author Alvaro
  */
 class Base {
+    long id;
     String logradouro;
     String bairro;
     String complemento;
